@@ -1,6 +1,6 @@
 # Deep operator networks for bioheat transfer problems with parameterized laser source functions
 
-Aditya Roy, Andrew Duplissis, Biswajit Mishra, Adela Ben-Yakar
+Aditya Roy, Andrew Duplissis, Biswajit Mishra, and Adela Ben-Yakar
 
 ## Abstract
 
