@@ -52,7 +52,7 @@ def run_model(NLAYERS, NUM_PROJECTION, EPOCHS):
     # Enter the model name for saving (L: number of layers, NP: high dimensional features to project to)
     MODEL_NAME = f"source+tumor_L{NLAYERS}_NP{NUM_PROJECTION}"
 
-    parent_dir = "/home/aroy-admin/UT_Research/Operator_Learning/Operator_Learning/models_rerun_v2/"
+    parent_dir = "enter directory here"
     path = os.path.join(parent_dir, MODEL_NAME)
     os.makedirs(path, exist_ok=True)
 
