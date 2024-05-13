@@ -28,3 +28,10 @@ To further understand the applicability of our network architecture on other pos
 | Data driven   | 0.18%  | 12 |
 | Physics-informed   | 0.25%  | 39 |
 | Hybrid  | 0.19%  | 38 |
+
+## Code usage
+
+Run scheduler.py for model training and inference.ipynb for inferencing. Use line 59 of solver.py to toggle between Gaussian and Bessel source functions. 
+The DeepONet_variant_comparison.ipynb file gives a notebook interface to train and test models. Use this to compare purely data driven, physics-informed, and hybrid variants of the Res-DeepONet. 
+
+Parts of the code have been adapted from the work of Wang et al. 2021 (https://www.science.org/doi/10.1126/sciadv.abi8605).
