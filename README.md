@@ -38,7 +38,7 @@ Parts of the code have been adapted from the work of Wang et al. 2021 (https://w
 
 ## Citation
 
-If you found this work helpful, please consider citing us.
+If you find this work helpful, please consider citing us.
 
 ```bibtex
 @article{Roy2024Res-DeepONet,
