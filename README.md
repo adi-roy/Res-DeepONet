@@ -35,3 +35,19 @@ Run scheduler.py for model training and inference.ipynb for inferencing. Use lin
 The DeepONet_variant_comparison.ipynb file gives a notebook interface to train and test models. Use this to compare purely data driven, physics-informed, and hybrid variants of the Res-DeepONet. 
 
 Parts of the code have been adapted from the work of Wang et al. 2021 (https://www.science.org/doi/10.1126/sciadv.abi8605).
+
+## Citation
+
+If you found this work helpful, please consider citing us.
+
+```bibtex
+@article{Roy2024Res-DeepONet,
+  author = {Aditya Roy and Andrew DuPlissis and Biswajit Mishra and Adela Ben-Yakar},
+  title = {Deep operator networks for bioheat transfer problems with parameterized laser source functions},
+  journal = {International Journal of Heat and Mass Transfer},
+  year = {2024},
+  volume = {228},
+  number = {125659},
+  doi = {https://doi.org/10.1016/j.ijheatmasstransfer.2024.125659},
+}
+
